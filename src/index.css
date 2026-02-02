@@ -15,6 +15,8 @@
   --color-muted: #252e37;
   --color-muted-foreground: #7a8491;
 
+  --color-border: #242b32;
+
   --radius: 0.75rem;
 
   --color-highlight: #f5a623;
@@ -33,5 +35,19 @@
 
   .font-serif {
     font-family: "Playfair Display", serif;
+  }
+}
+
+@layer components {
+  .glass {
+    background: color-mix(in srgb, var(--color-surface) 50%, transparent);
+    backdrop-filter: blur(16px);
+    border: 1px solid color-mix(in srgb, var(--color-border) 50%, transparent);
+  }
+
+  .glass-strong {
+    background: color-mix(in srgb, var(--color-surface) 80%, transparent);
+    backdrop-filter: blur(24px);
+    border: 1px solid color-mix(in srgb, var(--color-border) 60%, transparent);
   }
 }
