@@ -39,7 +39,7 @@ export const Hero = () => {
             </div>
 
             <div className="space-y-4">
-              <h1 className="text-5xl font-bold leading-tight animate-fade-in animation-delay-100">
+              <h1 className="text-5xl  font-bold leading-tight animate-fade-in animation-delay-100">
                 Hi, I'm{" "}
                 <span className="text-primary glow-text">Ismael Lares</span>
                 <br />
