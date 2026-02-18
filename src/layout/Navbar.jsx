@@ -63,12 +63,15 @@ export const Navbar = () => {
               <a
                 key={link.id}
                 href={link.url}
+                onClick={() => setIsMobileMenuOpen(false)}
                 className="text-lg text-muted-foreground hover:text-foreground py-2"
               >
                 {link.title}
               </a>
             ))}
-            <Button>Contact Me</Button>
+            <Button onClick={() => setIsMobileMenuOpen(false)}>
+              Contact Me
+            </Button>
           </div>
         </div>
       )}
