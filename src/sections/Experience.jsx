@@ -1,17 +1,17 @@
 const experinces = [
   {
-    company: "Company A",
+    company: "Samsung",
     role: "Software Engineer",
-    period: "Jan 2020 - Present",
+    period: "may 2023 - Present",
     description:
       "Worked on developing web applications using React and Node.js.",
     current: true,
     technologies: ["React", "Node.js", "JavaScript"],
   },
   {
-    company: "Company B",
+    company: "NEARSHORE TECHNOLOGY",
     role: "Frontend Developer",
-    period: "Jun 2018 - Dec 2019",
+    period: "apr 2022 - may 2023",
     description:
       "Focused on building responsive user interfaces with HTML, CSS, and JavaScript.",
 
@@ -19,13 +19,31 @@ const experinces = [
     technologies: ["React", "Node.js", "JavaScript"],
   },
   {
-    company: "Company C",
-    role: "Intern",
-    period: "Jan 2018 - May 2018",
+    company: "grupo HAWK",
+    role: "Web developer",
+    period: "mar 2020 - apr 2022",
     description:
       "Assisted in the development of internal tools and gained experience in software development.",
     current: false,
-    technologies: ["React", "Node.js", "JavaScript"],
+    technologies: ["NET", "Entity framework", "JavaScript"],
+  },
+  {
+    company: "CETYS university",
+    role: "Web developer",
+    period: "aug 2018 - mar 2020",
+    description:
+      "Assisted in the development of internal tools and gained experience in software development.",
+    current: false,
+    technologies: ["NET", "Entity framework", "JavaScript"],
+  },
+  {
+    company: "Busca Corp",
+    role: "Web developer",
+    period: "Jan 2017 - aug 2018",
+    description:
+      "Assisted in the development of internal tools and gained experience in software development.",
+    current: false,
+    technologies: ["PHP", "zend framework", "JavaScript"],
   },
 ];
 
