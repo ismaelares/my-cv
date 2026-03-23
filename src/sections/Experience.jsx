@@ -6,7 +6,7 @@ const experinces = [
     description:
       "Worked on developing web applications using React and Node.js.",
     current: true,
-    technologies: ["React", "Node.js", "JavaScript"],
+    technologies: ["React", "Node.js", "JavaScript", "AngularJS", "TypeScript"],
   },
   {
     company: "NEARSHORE TECHNOLOGY",
@@ -16,7 +16,7 @@ const experinces = [
       "Focused on building responsive user interfaces with HTML, CSS, and JavaScript.",
 
     current: false,
-    technologies: ["React", "Node.js", "JavaScript"],
+    technologies: ["React", "Node.js", "JavaScript", "TypeScript"],
   },
   {
     company: "grupo HAWK",
@@ -25,7 +25,15 @@ const experinces = [
     description:
       "Assisted in the development of internal tools and gained experience in software development.",
     current: false,
-    technologies: ["NET", "Entity framework", "JavaScript"],
+    technologies: [
+      "NET",
+      "Entity framework",
+      "JavaScript",
+      "AngularJS",
+      "TypeScript",
+      "React",
+      "Node.js",
+    ],
   },
   {
     company: "CETYS university",

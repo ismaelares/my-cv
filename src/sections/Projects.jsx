@@ -2,11 +2,21 @@ import { ArrowUpRight, Github } from "lucide-react";
 
 const projects = [
   {
-    name: "Project One",
-    description: "A brief description of Project One.",
-    image: "https://placehold.co/600x400",
+    name: "Famiily Hub",
+    description:
+      "Trabaje en el desarrollo de las aplicaciones de musica en los electrodomesticos de Samsung.",
+    image: "/my-cv/FH.png",
     tags: ["React", "JavaScript"],
-    link: "",
+    link: "https://www.samsung.com/pe/familyhub/?gclsrc=aw.ds&&cid=mx_pd_pmax_google_ref-lao-26q1ao_ecommerce_scom_multi_oneda-mundial-golai_conversion&gad_source=1&gad_campaignid=23617884120&gbraid=0AAAAADgkidfs1J_Zbn-qLuM_C3LgcHwN5&gclid=CjwKCAjwyYPOBhBxEiwAgpT8P1mIeZEr-70r5Du9JS7wUZD2OwRhiThi8fjeNkm2peSBbRvnR271KRoCdzYQAvD_BwE",
+    github: "",
+  },
+  {
+    name: "Busca Corp",
+    description:
+      "Trabaje en los sitios de la empresa, desarrollando nuevas funcionalidades y manteniendo el código existente.",
+    image: "/my-cv/Busca.png",
+    tags: ["PHP", "JavaScript", "zend framework", "HTML", "CSS"],
+    link: "https://wheat-dolphin-766207.hostingersite.com/es/inicio/",
     github: "",
   },
 ];
@@ -46,6 +56,7 @@ export const Projects = () => {
                   <a
                     href={project.link}
                     className="p-3 rounded-full glass hover:bg-primary hover:text-primary-foreground transition-all"
+                    target="_blank"
                   >
                     <ArrowUpRight className="w-5 h-5" />
                   </a>

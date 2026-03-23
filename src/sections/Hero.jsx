@@ -29,7 +29,7 @@ export const Hero = () => {
         ))}
       </div>
       <div className="container mx-auto px-6 pt-32 pb-20 realtive z-10">
-        <div className="grid lg:grid-cols-2 gap-12 items-center">
+        <div className="items-center">
           <div className="space-y-8">
             <div className="animate-fade-in">
               <span className="inline-flex items-center gap-2 px-4 py-2 rounded-full glass text-sm text-primary">
@@ -39,18 +39,16 @@ export const Hero = () => {
             </div>
 
             <div className="space-y-4">
-              <h1 className="text-5xl  font-bold leading-tight animate-fade-in animation-delay-100">
+              <h1 className="text-4xl  font-bold leading-tight animate-fade-in animation-delay-100">
                 Hi, I'm{" "}
                 <span className="text-primary glow-text">Ismael Lares</span>
-                <br />
-                lorem ipsum dolor sit amet consectetur adipisicing elit.
-                <br />
+                <br />I am a passionate developer with experience in full stack
+                development and a strong desire to learn and grow in the field
+                of technology.
               </h1>
               <p className="text-lg text-muted-foreground max-w-lg animate-fade-in animation-delay-200">
-                lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Voluptas cumque, voluptate, voluptate, voluptate, voluptate,
-                voluptate, voluptate, voluptate, voluptate, voluptate,
-                voluptate, voluptate,
+                Attention to detail, and a passion for continuous learning and
+                improvement.
               </p>
             </div>
           </div>

@@ -39,17 +39,19 @@ export const About = () => {
               </span>
             </div>
             <h2 className="text-4xl font-bold leading-tight animate-fade-in animate-delay-100 text-secondary-foreground">
-              I am a passionate developer with experience in full stack
-              development and a strong desire to learn and grow in the{" "}
+              Full-Stack Software engineer experienced in developing{" "}
               <span className="font-serif italic font-normal text-white">
-                field of technology.{" "}
+                end-to-end web applications.{" "}
               </span>
             </h2>
 
             <div className="space-y-4 text-muted-foreground animate-fade-in animation-delay-200">
-              <p> lorem ipsum lorem ipsum</p>
-              <p> lorem ipmsun</p>
-              <p> lorem ipsum</p>
+              <p>Beyond the screen</p>
+              <p>
+                I have a deep fascination with horror in all its forms—whether
+                it’s unsettling stories, atmospheric games, or classic horror
+                films
+              </p>
             </div>
           </div>
 
