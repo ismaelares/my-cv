@@ -48,8 +48,7 @@ const experinces = [
     company: "Busca Corp",
     role: "Web developer",
     period: "Jan 2017 - aug 2018",
-    description:
-      "Assisted in the development of internal tools and gained experience in software development.",
+    description: "",
     current: false,
     technologies: ["PHP", "zend framework", "JavaScript"],
   },
