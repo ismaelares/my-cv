@@ -94,7 +94,7 @@ export const Contact = () => {
           </h2>
           <p className="text-muted-foreground animate-fade-in animation-delay-200">
             I'm always open to discussing new projects, creative ideas, or
-            opportunities to be part of your visions. Feel free to reach out
+            opportunities to be part of your vision. Feel free to reach out
             using the contact information below or send me a message through the
             form.
           </p>
