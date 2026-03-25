@@ -6,8 +6,17 @@ const projects = [
     description:
       "Trabaje en el desarrollo de las aplicaciones de musica en los electrodomesticos de Samsung.",
     image: "/my-cv/FH.png",
-    tags: ["React", "JavaScript"],
+    tags: ["React", "JavaScript", "AngularJS", "TypeScript"],
     link: "https://www.samsung.com/pe/familyhub/?gclsrc=aw.ds&&cid=mx_pd_pmax_google_ref-lao-26q1ao_ecommerce_scom_multi_oneda-mundial-golai_conversion&gad_source=1&gad_campaignid=23617884120&gbraid=0AAAAADgkidfs1J_Zbn-qLuM_C3LgcHwN5&gclid=CjwKCAjwyYPOBhBxEiwAgpT8P1mIeZEr-70r5Du9JS7wUZD2OwRhiThi8fjeNkm2peSBbRvnR271KRoCdzYQAvD_BwE",
+    github: "",
+  },
+  {
+    name: "Realty Austin",
+    description:
+      "Trabaje en el desarrollo de las aplicaciones de musica en los electrodomesticos de Samsung.",
+    image: "/my-cv/RealtyAustin.png",
+    tags: ["React", "JavaScript", "TypeScript"],
+    link: "https://www.realtyaustin.com/",
     github: "",
   },
   {

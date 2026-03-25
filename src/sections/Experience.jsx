@@ -4,7 +4,7 @@ const experinces = [
     role: "Software Engineer",
     period: "may 2023 - Present",
     description:
-      "Worked on developing web applications using React and Node.js.",
+      "I was part of the FamilyHub team, where i worked on developing music applications for smart home appliances.",
     current: true,
     technologies: ["React", "Node.js", "JavaScript", "AngularJS", "TypeScript"],
   },
@@ -13,7 +13,7 @@ const experinces = [
     role: "Frontend Developer",
     period: "apr 2022 - may 2023",
     description:
-      "Focused on building responsive user interfaces with HTML, CSS, and JavaScript.",
+      "I worked on the knowledge transfer of the project, which was a critical project for the company. I also was responsible for maintaining and improving the main application.",
 
     current: false,
     technologies: ["React", "Node.js", "JavaScript", "TypeScript"],
@@ -23,7 +23,7 @@ const experinces = [
     role: "Web developer",
     period: "mar 2020 - apr 2022",
     description:
-      "Assisted in the development of internal tools and gained experience in software development.",
+      "I contributed to the development of the insurance policy management system, which was a critical project for the company. I also was responsible for maintaining and improving the employe check-in system, which was used by all the employees of the company.",
     current: false,
     technologies: [
       "NET",
@@ -40,7 +40,7 @@ const experinces = [
     role: "Web developer",
     period: "aug 2018 - mar 2020",
     description:
-      "Assisted in the development of internal tools and gained experience in software development.",
+      "I worked on developing internal tools for the different departmets of the university. I also had the opportunity to work on the first system, on campuses level, to be developed locally, which was a great experience for me.",
     current: false,
     technologies: ["NET", "Entity framework", "JavaScript"],
   },
@@ -48,7 +48,8 @@ const experinces = [
     company: "Busca Corp",
     role: "Web developer",
     period: "Jan 2017 - aug 2018",
-    description: "",
+    description:
+      "I had the opportunity to work on very important projects for Latin America, susch as Levelup.com, Tomatazos.com and SandiegoRed.com",
     current: false,
     technologies: ["PHP", "zend framework", "JavaScript"],
   },
