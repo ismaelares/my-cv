@@ -1,29 +1,28 @@
 const experinces = [
   {
     company: "Samsung",
-    role: "Software Engineer",
+    role: "Assistant Engineer",
     period: "may 2023 - Present",
     description:
-      "I was part of the FamilyHub team, where i worked on developing music applications for smart home appliances.",
+      "I was part of the FamilyHub team, where I worked on developing music applications for smart home appliances. I worked on the Spotify, Amazon Music, TuneIn, Pandora, and iHeartRadio app",
     current: true,
     technologies: ["React", "Node.js", "JavaScript", "AngularJS", "TypeScript"],
   },
   {
     company: "NEARSHORE TECHNOLOGY",
-    role: "Frontend Developer",
+    role: "Full stack developer",
     period: "apr 2022 - may 2023",
     description:
-      "I worked on the knowledge transfer of the project, which was a critical project for the company. I also was responsible for maintaining and improving the main application.",
-
+      "I worked on the knowledge transfer of the main project. I was also responsible for maintaining and improving the main application.",
     current: false,
     technologies: ["React", "Node.js", "JavaScript", "TypeScript"],
   },
   {
     company: "grupo HAWK",
-    role: "Web developer",
+    role: "Full stack developer",
     period: "mar 2020 - apr 2022",
     description:
-      "I contributed to the development of the insurance policy management system, which was a critical project for the company. I also was responsible for maintaining and improving the employe check-in system, which was used by all the employees of the company.",
+      "I contributed to the development of the insurance policy management system, which was a critical project for the company. I was also responsible for maintaining and improving the employee check-in system, which was used by all the employees of the company. Resolved a bug that caused system crashes during searches of certain policies. ",
     current: false,
     technologies: [
       "NET",
@@ -37,19 +36,19 @@ const experinces = [
   },
   {
     company: "CETYS university",
-    role: "Web developer",
+    role: "Full stack developer",
     period: "aug 2018 - mar 2020",
     description:
-      "I worked on developing internal tools for the different departmets of the university. I also had the opportunity to work on the first system, on campuses level, to be developed locally, which was a great experience for me.",
+      "I worked on developing internal tools for the different departments of the university. I also had the opportunity to work on the first system, on campus level, to be developed locally. Created proposals for a mobile app. ",
     current: false,
     technologies: ["NET", "Entity framework", "JavaScript"],
   },
   {
     company: "Busca Corp",
-    role: "Web developer",
+    role: "Full stack developer",
     period: "Jan 2017 - aug 2018",
     description:
-      "I had the opportunity to work on very important projects for Latin America, susch as Levelup.com, Tomatazos.com and SandiegoRed.com",
+      "I had the opportunity to work on very important projects for Latin America, such as Levelup.com, tomatazos.com and sandiegored.com, Developed a newsletter. Developed an ads control. Created a script for Facebook Instant articles.",
     current: false,
     technologies: ["PHP", "zend framework", "JavaScript"],
   },

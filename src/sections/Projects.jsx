@@ -4,7 +4,7 @@ const projects = [
   {
     name: "Famiily Hub",
     description:
-      "Worked on the development of music applications for smart home applicances, such as Spotify, Amazon Music, iHeartRadio, Pandora and tuneIn.",
+      "Collaborated on the development of music applications for smart home appliances, including Spotify, Amazon Music, TuneIn, Pandora, and iHeartRadio. I was responsible for implementing new features, optimizing performance, and ensuring a seamless user experience across all devices.",
     image: "/my-cv/FH.png",
     tags: ["React", "JavaScript", "AngularJS", "TypeScript"],
     link: "https://www.samsung.com/pe/familyhub/?gclsrc=aw.ds&&cid=mx_pd_pmax_google_ref-lao-26q1ao_ecommerce_scom_multi_oneda-mundial-golai_conversion&gad_source=1&gad_campaignid=23617884120&gbraid=0AAAAADgkidfs1J_Zbn-qLuM_C3LgcHwN5&gclid=CjwKCAjwyYPOBhBxEiwAgpT8P1mIeZEr-70r5Du9JS7wUZD2OwRhiThi8fjeNkm2peSBbRvnR271KRoCdzYQAvD_BwE",
@@ -13,7 +13,7 @@ const projects = [
   {
     name: "Realty Austin",
     description:
-      "worked on the knowledge transfer of the project. I also was responsible for maintaining and improving the main application.",
+      "Collaborated on the knowledge transfer and maintenance of the main application, which is a real estate platform. I was tasked with implementing new features, fixing bugs, and optimizing the performance of the application.",
     image: "/my-cv/RealtyAustin.png",
     tags: ["React", "JavaScript", "TypeScript"],
     link: "https://www.realtyaustin.com/",
@@ -22,7 +22,7 @@ const projects = [
   {
     name: "Busca Corp",
     description:
-      "Mantained and developed features for the websites Levelup.com, Tomatazos.com y SandiegoRed.com",
+      "I had the opportunity to work on very important projects for Latin America, such as Levelup.com, tomatazos.com and sandiegored.com",
     image: "/my-cv/Busca.png",
     tags: ["PHP", "JavaScript", "zend framework", "HTML", "CSS"],
     link: "https://wheat-dolphin-766207.hostingersite.com/es/inicio/",
